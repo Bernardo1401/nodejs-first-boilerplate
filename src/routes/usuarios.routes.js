@@ -2,6 +2,6 @@ import { Router } from "express";
 
 const usuariosRoutes = Router();
 
-let usuarios = []
+let usuarios = [];
 
 export default routes;
