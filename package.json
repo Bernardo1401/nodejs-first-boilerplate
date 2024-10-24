@@ -1,0 +1,15 @@
+{
+  "name": "template-nodejs",
+  "version": "1.0.0",
+  "description": "Projeto criado para aulas de Back-end",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Senai",
+    "Back-end"
+  ],
+  "author": "Bernardo Marques",
+  "license": "MIT"
+}
